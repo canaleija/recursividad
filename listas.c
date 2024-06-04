@@ -57,7 +57,7 @@ void insertar (ptrNodoLista *ptrS, int valor){
     if(ptrAnterior == NULL){
         ptrNuevo->ptrSiguiente=*ptrS;
         *ptrS = ptrNuevo;
-
+    // hola
     }
     /*
     else{
