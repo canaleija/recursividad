@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mondo/Documents/Visual Code/Alogritmos/recursividad/arreglos'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DBC, symSize: 0x80 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DBC, symSize: 0x80 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _burbuja, symObjAddr: 0x80, symBinAddr: 0x100003E3C, symSize: 0xF0 }
+  - { offsetInCU: 0xFD, offset: 0xFD, size: 0x8, addend: 0x0, symName: _manipulacion, symObjAddr: 0x170, symBinAddr: 0x100003F2C, symSize: 0x20 }
+...

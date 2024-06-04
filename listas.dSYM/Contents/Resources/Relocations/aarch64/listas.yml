@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mondo/Documents/Visual Code/Alogritmos/recursividad/listas'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C1C, symSize: 0x7C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C1C, symSize: 0x7C }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _insertar, symObjAddr: 0x7C, symBinAddr: 0x100003C98, symSize: 0xAC }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: _imprimirLista, symObjAddr: 0x128, symBinAddr: 0x100003D44, symSize: 0xA4 }
+  - { offsetInCU: 0x105, offset: 0x105, size: 0x8, addend: 0x0, symName: _eliminar, symObjAddr: 0x1CC, symBinAddr: 0x100003DE8, symSize: 0x140 }
+...
